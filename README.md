@@ -96,4 +96,4 @@ This project highlights advanced skills in AI and ML, showcasing the ability to:
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn] https://www.linkedin.com/in/jaydeb-das-iimcal/ or check out my other projects on [GitHub](https://github.com/jddotcom).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaydeb-das-iimcal) / or check out my other projects on [GitHub](https://github.com/jddotcom).
